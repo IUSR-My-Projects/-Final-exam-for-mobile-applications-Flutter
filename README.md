@@ -7,4 +7,6 @@
 - انسخ مجلد الـ lib ومن ثم استبدله مع مجلد lib الخاص بمشروعك
 - قم بإضافة المكاتب http, provider
 - فقط, التطبيق يعمل الآن
-![Uploading Screenshot 2024-07-30 205302.png…]()
+
+
+<img src="![Uploading Screenshot 2024-07-30 205302.png…]()"/>
